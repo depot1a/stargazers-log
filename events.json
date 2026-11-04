@@ -1,0 +1,29 @@
+[
+  {
+    "type": "starred",
+    "created_at": "2025-03-12T10:30:00Z",
+    "repository": {
+      "name": "freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum."
+    }
+  },
+  {
+    "type": "starred",
+    "created_at": "2025-02-24T16:15:00Z",
+    "repository": {
+      "name": "The Odin Project",
+      "url": "https://github.com/TheOdinProject/curriculum",
+      "description": "An open-source curriculum for learning web development."
+    }
+  },
+  {
+    "type": "starred",
+    "created_at": "2025-01-08T08:45:00Z",
+    "repository": {
+      "name": "awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of free software network services and web applications."
+    }
+  }
+]
