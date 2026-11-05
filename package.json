@@ -1,0 +1,12 @@
+{
+  "name": "stargazers-log",
+  "version": "1.0.0",
+  "description": "A log of the repositories I've starred on GitHub.",
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch-stars.js",
+    "serve": "npx --yes serve ."
+  },
+  "keywords": ["github", "starred", "stargazers"],
+  "license": "MIT"
+}
