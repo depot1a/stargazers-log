@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "type": "starred",
+    "created_at": "2026-11-05T05:47:55Z",
+    "repository": {
+      "name": "awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]"
+    }
+  }
+]
