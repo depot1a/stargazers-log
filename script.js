@@ -27,7 +27,9 @@ function renderRepositories(events) {
   }
 }
 
-fetch("./events.json")
+// 用日期作为版本号，绕过 GitHub Pages CDN 缓存
+const today = new Date().toISOString().slice(0, 10);
+fetch(`./events.json?v=${today}`)
   .then((response) => {
     if (!response.ok) {
       throw new Error(`Could not load starred repositories (${response.status}).`);
